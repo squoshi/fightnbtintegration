@@ -9,7 +9,6 @@
     "WeaponTypeReloadListenerMixin"
   ],
   "client": [
-    "AbstractClientPlayerPatchMixin",
     "RenderEngineMixin"
   ],
   "injectors": {
